@@ -316,24 +316,24 @@ function wasm_bindgen__convert__closures_____invoke__h02a35c55e63b21ac(arg0, arg
     wasm.wasm_bindgen__convert__closures_____invoke__h02a35c55e63b21ac(arg0, arg1, arg2);
 }
 
-function wasm_bindgen__convert__closures_____invoke__h5c8a173765e617f3(arg0, arg1) {
-    wasm.wasm_bindgen__convert__closures_____invoke__h5c8a173765e617f3(arg0, arg1);
-}
-
 function wasm_bindgen__convert__closures_____invoke__hacb43c950c413c92(arg0, arg1, arg2, arg3) {
     wasm.wasm_bindgen__convert__closures_____invoke__hacb43c950c413c92(arg0, arg1, arg2, arg3);
 }
 
-function wasm_bindgen__convert__closures_____invoke__h0847148711019d6a(arg0, arg1, arg2) {
-    wasm.wasm_bindgen__convert__closures_____invoke__h0847148711019d6a(arg0, arg1, arg2);
+function wasm_bindgen__convert__closures_____invoke__h276612d63383fb9a(arg0, arg1, arg2) {
+    wasm.wasm_bindgen__convert__closures_____invoke__h276612d63383fb9a(arg0, arg1, isLikeNone(arg2) ? 0 : addToExternrefTable0(arg2));
 }
 
 function wasm_bindgen__convert__closures_____invoke__hec87497e5d5a4490(arg0, arg1) {
     wasm.wasm_bindgen__convert__closures_____invoke__hec87497e5d5a4490(arg0, arg1);
 }
 
-function wasm_bindgen__convert__closures_____invoke__h276612d63383fb9a(arg0, arg1, arg2) {
-    wasm.wasm_bindgen__convert__closures_____invoke__h276612d63383fb9a(arg0, arg1, isLikeNone(arg2) ? 0 : addToExternrefTable0(arg2));
+function wasm_bindgen__convert__closures_____invoke__h0847148711019d6a(arg0, arg1, arg2) {
+    wasm.wasm_bindgen__convert__closures_____invoke__h0847148711019d6a(arg0, arg1, arg2);
+}
+
+function wasm_bindgen__convert__closures_____invoke__h5c8a173765e617f3(arg0, arg1) {
+    wasm.wasm_bindgen__convert__closures_____invoke__h5c8a173765e617f3(arg0, arg1);
 }
 
 const __wbindgen_enum_GamepadMappingType = ["", "standard"];
