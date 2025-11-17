@@ -334,28 +334,28 @@ function takeObject(idx) {
     dropObject(idx);
     return ret;
 }
-function __wasm_bindgen_func_elem_4276(arg0, arg1, arg2) {
-    wasm.__wasm_bindgen_func_elem_4276(arg0, arg1, addHeapObject(arg2));
-}
-
-function __wasm_bindgen_func_elem_4278(arg0, arg1) {
-    wasm.__wasm_bindgen_func_elem_4278(arg0, arg1);
-}
-
-function __wasm_bindgen_func_elem_272423(arg0, arg1, arg2) {
-    wasm.__wasm_bindgen_func_elem_272423(arg0, arg1, addHeapObject(arg2));
-}
-
-function __wasm_bindgen_func_elem_4277(arg0, arg1, arg2, arg3) {
-    wasm.__wasm_bindgen_func_elem_4277(arg0, arg1, addHeapObject(arg2), addHeapObject(arg3));
-}
-
 function __wasm_bindgen_func_elem_125928(arg0, arg1) {
     wasm.__wasm_bindgen_func_elem_125928(arg0, arg1);
 }
 
 function __wasm_bindgen_func_elem_4279(arg0, arg1, arg2) {
     wasm.__wasm_bindgen_func_elem_4279(arg0, arg1, isLikeNone(arg2) ? 0 : addHeapObject(arg2));
+}
+
+function __wasm_bindgen_func_elem_4276(arg0, arg1, arg2) {
+    wasm.__wasm_bindgen_func_elem_4276(arg0, arg1, addHeapObject(arg2));
+}
+
+function __wasm_bindgen_func_elem_272423(arg0, arg1, arg2) {
+    wasm.__wasm_bindgen_func_elem_272423(arg0, arg1, addHeapObject(arg2));
+}
+
+function __wasm_bindgen_func_elem_4278(arg0, arg1) {
+    wasm.__wasm_bindgen_func_elem_4278(arg0, arg1);
+}
+
+function __wasm_bindgen_func_elem_4277(arg0, arg1, arg2, arg3) {
+    wasm.__wasm_bindgen_func_elem_4277(arg0, arg1, addHeapObject(arg2), addHeapObject(arg3));
 }
 
 const __wbindgen_enum_GamepadMappingType = ["", "standard"];
